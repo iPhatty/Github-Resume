@@ -41,7 +41,7 @@ My responsibilities included:
 
 ## Education
 
-### Founders & Coders ![Founders and Coders Logo](https://foundersandcoders.com/assets/fac-logo.png =40x)
+### Founders & Coders <img src="https://foundersandcoders.com/assets/fac-logo.png" alt="Founders and Coders Logo" width="48">
 
 *February 26 - June 15 2018*
 
