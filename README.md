@@ -18,7 +18,10 @@ With academics in design, I have a keen interest in UI/UX design. Using the tool
 |            |           | React                   |           | Jest      | Babel          |
       
 ## Projects
-### [Well Bean](http://well-bean.herokuapp.com/) - Current project
+### [React-Youtube](https://github.com/iPhatty/React-Youtube) - Current
+Just a project to practice React!
+
+### [Well Bean](http://well-bean.herokuapp.com/) - May 1-18
 A student project for weeks 10-12 of the Founders and Coders bootcamp. In a team of 4, we are creating an app that provides small challenges focusing on improving the daily routine of users, to provide a healthy lifestyle in small gradual changes.
 
 ## Employment History
