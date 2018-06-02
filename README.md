@@ -25,9 +25,6 @@ A client project for weeks 10-12 of the Founders and Coders bootcamp. In a team 
 
 The charity's challenge is that most users will arrive at the site not knowing that they could potentially be entitled to benefits as a kinship carer. Our team's goal is to provide a product that allows older users of the website to find the information they need, and to also provide awareness that they maybe kinship carers.
 
-### [React-Youtube](https://github.com/iPhatty/React-Youtube)
-Just a project to practice React!
-
 ### [Well Bean](http://well-bean.herokuapp.com/) - May 1-18
 A student project for weeks 10-12 of the Founders and Coders bootcamp. In a team of 4, we are creating an app that provides small challenges focusing on improving the daily routine of users, to provide a healthy lifestyle in small gradual changes.
 
