@@ -18,7 +18,12 @@ With academics in design, I have a keen interest in UI/UX design. Using the tool
 |            |           | React                   |           | Jest      | Babel          |
       
 ## Projects
-### [React-Youtube](https://github.com/iPhatty/React-Youtube) - Current
+### [Grandparents Plus](https://github.com/fac-13/GP_ProjectBernadette/) - Current
+A client project for weeks 10-12 of the Founders and Coders bootcamp. In a team of 4, we are creating an app for a charity called [Grandparents Plus](https://www.grandparentsplus.org.uk/). 
+> Grandparents Plus is the only national charity (England and Wales) dedicated to grandparents and their role in the care and development of their grandchildren.
+The charity's challenge is that most users will arrive at the site not knowing that they could potentially be entitled to benefits as a kinship carer. Our team's goal is to provide a product that allows older users of the website to find the information they need, and to also provide awareness that they maybe kinship carers.
+
+### [React-Youtube](https://github.com/iPhatty/React-Youtube)
 Just a project to practice React!
 
 ### [Well Bean](http://well-bean.herokuapp.com/) - May 1-18
