@@ -2,7 +2,7 @@
 
 ## Front End JavaScript Developer.
 
-Currently a student of [Founders & Coders](https://foundersandcoders.com/).
+Formerly a student of [Founders & Coders](https://foundersandcoders.com/).
 
 With academics in design, I have a keen interest in UI/UX design. Using the tools in programming, to provide product users with an efficient and enjoyable experience.
 
@@ -16,9 +16,10 @@ With academics in design, I have a keen interest in UI/UX design. Using the tool
 |HTML        |Figma      | Express                 |           | Supertest | Heroku         |      
 |CSS         |Invision   | Handlebars              |           | Travis CI | ESLint         | 
 |            |           | React                   |           | Jest      | Babel          |
+|            |           | Redux                   |           |           | Webpack        |
       
 ## Projects
-### [Grandparents Plus](https://github.com/fac-13/GP_ProjectBernadette/) - Current
+### [Grandparents Plus](https://github.com/fac-13/GP_ProjectBernadette/)
 A client project for weeks 10-12 of the Founders and Coders bootcamp. In a team of 4, we are creating an app for a charity called [Grandparents Plus](https://www.grandparentsplus.org.uk/). 
 
 > Grandparents Plus is the only national charity (England and Wales) dedicated to grandparents and their role in the care and development of their grandchildren.
